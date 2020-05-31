@@ -1,5 +1,3 @@
-
-
 puts board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
 # Position 1: Left 
 row[0]
